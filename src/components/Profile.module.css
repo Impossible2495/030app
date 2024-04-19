@@ -1,0 +1,16 @@
+.header {
+  font-size: 1.5rem;
+  color: darkolivegreen;
+}
+
+.about {
+  font-style: italic;
+}
+
+.id {
+  font-weight: 700;
+}
+
+.id span {
+  color: goldenrod;
+}
