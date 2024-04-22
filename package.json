@@ -1,6 +1,5 @@
 {
   "name": "030app",
-  "homepage": "http://junji.p-host.in/shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

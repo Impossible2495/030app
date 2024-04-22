@@ -1,7 +1,7 @@
 import styles from "./Profile.module.css";
 
 export const Profile = (props) => {
-  let userId = window.location.pathname.split("/")[3];
+  let userId = window.location.pathname.split("/")[2];
   let user = props.function(userId);
   // console.log(userId);
   return (
